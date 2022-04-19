@@ -11,12 +11,12 @@ packages = [
     "disnake.ext.activities",
 ]
 setup(
-    name="nextcord-ext-activities",
+    name="disnake-ext-activities",
     version="2022.04.02",
     description="An nextcord extension that helps you to launch activities on Discord.",  # noqa: E501
     long_description=open("README.md").read(),
     url="",
-    author="Andrerio(Original: MaskDuck)",
+    author="Andrerio (Original: MaskDuck)",
     license="MIT",
     classifiers=classifiers,
     keywords="activities",
