@@ -1,4 +1,4 @@
-project = "nextcord.ext.activities"
+project = "disnake.ext.activities"
 copyright = "2022, MaskDuck"
 author = "MaskDuck"
 release = "2022.04.02"

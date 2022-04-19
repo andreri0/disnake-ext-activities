@@ -8,7 +8,7 @@ classifiers = [
     "Programming Language :: Python :: 3",
 ]
 packages = [
-    "nextcord.ext.activities",
+    "disnake.ext.activities",
 ]
 setup(
     name="nextcord-ext-activities",
@@ -16,11 +16,11 @@ setup(
     description="An nextcord extension that helps you to launch activities on Discord.",  # noqa: E501
     long_description=open("README.md").read(),
     url="",
-    author="MaskDuck",
+    author="Andrerio(Original: MaskDuck)",
     license="MIT",
     classifiers=classifiers,
     keywords="activities",
     packages=packages,
     long_description_content_type="text/markdown",
-    install_requires=["nextcord"],
+    install_requires=["disnake"],
 )

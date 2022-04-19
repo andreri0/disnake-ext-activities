@@ -1,6 +1,6 @@
 from typing import Optional, Union
 
-from nextcord import InviteTarget, Invite, VoiceChannel
+from disnake import InviteTarget, Invite, VoiceChannel
 
 from .enums import Activity, ActivityDevelopment
 
